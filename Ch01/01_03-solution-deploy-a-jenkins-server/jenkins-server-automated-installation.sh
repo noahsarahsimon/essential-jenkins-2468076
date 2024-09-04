@@ -22,7 +22,7 @@ apt update
 apt-get -y upgrade
 
 apt-get -y install \
-    openjdk-11-jdk \
+    fontconfig openjdk-17-jre \
     nginx \
     ca-certificates \
     curl \
